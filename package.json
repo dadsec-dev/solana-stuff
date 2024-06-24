@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@solana/web3.js": "^1.93.1"
+    "@solana/web3.js": "^1.93.1",
+    "dotenv": "^16.4.5",
+    "esrun": "^3.2.26"
   }
 }
